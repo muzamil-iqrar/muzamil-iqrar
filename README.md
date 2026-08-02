@@ -1,53 +1,117 @@
-<!-- HEADER ANIMATION / BANNER -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vcenter=true&width=500&lines=Hi+there!+%F0%9F%90%8B+I'm+Muzamil;Full-Stack+Developer;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
-</p>
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Hi 👋, I'm Muzamil Iqrar</h1>
+
+<h3 align="center">
+Software Engineer • Shopify Developer • AI Enthusiast • Lifelong Learner
+</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDdtZ2ppZ3F4ZHptMHN4Z3ZwOXB3Y3B4ZW5mZWp1Zm13aWdzZW81YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4v6/giphy.gif" width="600px" alt="Coding GIF" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Products+that+Solve+Real+Problems;Shopify+Developer;Learning+Full-Stack+%26+AI;Always+Curious+🚀" />
 </p>
 
 ---
 
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
-* 🔭 I’m currently working on **Full-Stack Projects**
-* 🎯 Goals: Build awesome web apps & contribute to open source
-* ⚡ Fun fact: Passionate about learning new modern web technologies
+I'm a software engineer passionate about building products that make people's lives easier.
+
+My journey started with **UI/UX Design**, evolved into **Shopify Development**, and today I'm expanding into **modern Full-Stack Engineering and AI applications**.
+
+I enjoy solving challenging problems, learning new technologies, and constantly improving my engineering skills.
+
+### Currently
+
+- 💼 Building Shopify solutions
+- ⚛️ Learning React & modern full-stack architecture
+- 🧠 Studying Data Structures & Algorithms
+- 🤖 Exploring AI, LLMs and AI-powered applications
+- 🌱 Always building side projects
 
 ---
 
-### 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap" />
 </p>
 
+### Shopify
+
+<p>
+<img src="https://skillicons.dev/icons?i=shopify" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+</p>
+
+### Currently Learning
+
+- React
+- Node.js
+- Express
+- MongoDB
+- AI Development
+- Data Structures & Algorithms
+
 ---
 
-### 📊 GitHub Stats
+# 🚀 What I'm Interested In
+
+- Shopify Development
+- Full-Stack Web Applications
+- AI & LLM Applications
+- Developer Tools
+- Automation
+- Open Source
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=muzamil-iqrar&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzamil-iqrar&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=muzamil-iqrar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muzamil-iqrar&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 
-<br clear="both"/>
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muzamil-iqrar&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=muzamil-iqrar&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-### 📬 Connect with Me
+# 📈 2026 Goals
 
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+- ✅ Master React
+- ✅ Become a Full-Stack Engineer
+- ✅ Build AI-powered products
+- ✅ Contribute to Open Source
+- ✅ Solve 300+ DSA problems
+
+---
+
+# 🤝 Let's Connect
+
+<p>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+> *"Never stop learning. Every project is another opportunity to improve."*
+
 </p>
