@@ -1,32 +1,61 @@
-<!-- ================= HEADER ================= -->
+<!-- ========================================================= -->
+<!--                    MUZAMIL IQRAR README                   -->
+<!-- ========================================================= -->
 
-<h1 align="center">Hi 👋, I'm Muzamil Iqrar</h1>
+<div align="center">
 
-<h3 align="center">
-Software Engineer • Shopify Developer • AI Enthusiast • Lifelong Learner
-</h3>
+# 👋 Hi, I'm **Muzamil Iqrar**
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&lines=Building+Products+that+Solve+Real+Problems;Shopify+Developer;Learning+Full-Stack+%26+AI;Always+Curious+🚀" />
+### Software Engineer • Shopify Developer • AI Builder • Lifelong Learner
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1200&color=00F5FF&center=true&vCenter=true&width=850&lines=Building+Software+That+Solves+Real+Problems.;Shopify+Developer+%F0%9B%9B%92;Learning+React+%26+Full-Stack+Development.;Exploring+AI+%7C+LLMs+%7C+Automation.;Always+Learning.+Always+Building."/>
+
+<br>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=muzamil-iqrar&label=Profile+Views&color=0e75b6&style=flat" />
+<img src="https://img.shields.io/github/followers/muzamil-iqrar?style=social" />
+<img src="https://img.shields.io/github/stars/muzamil-iqrar?style=social" />
 </p>
+
+</div>
 
 ---
 
-# 👨‍💻 About Me
+# 🚀 About Me
 
-I'm a software engineer passionate about building products that make people's lives easier.
+```txt
+╭──────────────────────────────────────────────────────────────╮
+│  👨 Name       : Muzamil Iqrar                              │
+│  💼 Role       : Software Engineer                          │
+│  🛍 Specialty  : Shopify Development                        │
+│  🤖 Passion    : AI, Automation & Full-Stack Engineering    │
+│  📍 Location   : Pakistan                                   │
+│  🎯 Mission    : Build products that solve real problems    │
+╰──────────────────────────────────────────────────────────────╯
+```
 
-My journey started with **UI/UX Design**, evolved into **Shopify Development**, and today I'm expanding into **modern Full-Stack Engineering and AI applications**.
+I love building software that people actually use.
 
-I enjoy solving challenging problems, learning new technologies, and constantly improving my engineering skills.
+My journey started with **UI/UX Design**, evolved into **Shopify Development**, and now I'm expanding into **Full-Stack Engineering**, **Artificial Intelligence**, and **Developer Tools**.
 
-### Currently
+I'm the kind of developer who enjoys understanding *how things work* just as much as building them.
 
-- 💼 Building Shopify solutions
-- ⚛️ Learning React & modern full-stack architecture
-- 🧠 Studying Data Structures & Algorithms
-- 🤖 Exploring AI, LLMs and AI-powered applications
-- 🌱 Always building side projects
+---
+
+# ⚡ Current Focus
+
+```text
+🔭 Building Shopify Applications
+
+⚛ Learning React Ecosystem
+
+🧠 Mastering Data Structures & Algorithms
+
+🤖 Building AI-Powered Applications
+
+🚀 Exploring Modern Full-Stack Development
+```
 
 ---
 
@@ -47,32 +76,50 @@ I enjoy solving challenging problems, learning new technologies, and constantly 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,npm,vite" />
 </p>
 
 ### Currently Learning
 
-- React
-- Node.js
-- Express
-- MongoDB
-- AI Development
-- Data Structures & Algorithms
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,nextjs,supabase,firebase" />
+</p>
 
 ---
 
-# 🚀 What I'm Interested In
+# 📚 2026 Learning Progress
 
-- Shopify Development
-- Full-Stack Web Applications
-- AI & LLM Applications
-- Developer Tools
-- Automation
-- Open Source
+```text
+React                 ████████░░   80%
+
+Node.js               █████░░░░░   50%
+
+AI Development        ███████░░░   70%
+
+DSA                   █████░░░░░   50%
+
+System Design         ███░░░░░░░   30%
+```
 
 ---
 
-# 📊 GitHub Stats
+# 💻 What I Enjoy Building
+
+✨ Shopify Apps
+
+🤖 AI Tools
+
+🌐 Full-Stack Web Apps
+
+⚡ Developer Utilities
+
+📈 Automation Systems
+
+🎨 Beautiful User Interfaces
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
 
@@ -83,35 +130,80 @@ I enjoy solving challenging problems, learning new technologies, and constantly 
 </p>
 
 <p align="center">
+
 <img src="https://github-readme-streak-stats.herokuapp.com?user=muzamil-iqrar&theme=tokyonight&hide_border=true"/>
+
 </p>
 
 ---
 
-# 📈 2026 Goals
+# 🏆 GitHub Trophies
 
-- ✅ Master React
-- ✅ Become a Full-Stack Engineer
-- ✅ Build AI-powered products
-- ✅ Contribute to Open Source
-- ✅ Solve 300+ DSA problems
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=muzamil-iqrar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
 
 ---
 
-# 🤝 Let's Connect
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/muzamil-iqrar/muzamil-iqrar/output/github-contribution-grid-snake-dark.svg" />
+
+</p>
+
+> *(You'll need to enable a GitHub Action to generate this automatically.)*
+
+---
+
+# 🎯 Goals for 2026
+
+- ✅ Become an exceptional Full-Stack Engineer
+- ✅ Master React
+- ✅ Learn Backend Development
+- ✅ Build AI Applications
+- ✅ Solve 300+ DSA Problems
+- ✅ Contribute to Open Source
+- ✅ Launch personal SaaS projects
+
+---
+
+# 🌎 Connect With Me
 
 <p>
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_URL">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
 
 ---
 
-<p align="center">
+<div align="center">
 
-> *"Never stop learning. Every project is another opportunity to improve."*
+### 💭 Random Developer Thought
 
-</p>
+> *"Great software isn't written in one sitting. It's built through continuous learning, curiosity, and iteration."*
+
+---
+
+```javascript
+while (alive) {
+    Learn();
+    Build();
+    Share();
+    Repeat();
+}
+```
+
+⭐ **Thanks for visiting my profile!**
+
+</div>
